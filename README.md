@@ -88,7 +88,7 @@ The dataset is structured using a **star-schema approach** with fact and dimensi
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot][(images/dashboard.png)](https://github.com/SathyaSantosh77/Airline-Loyalty-Analysis/blob/main/Airline%20Loyalty%20Analysis%20Dashboard.png)
 
 ---
 
